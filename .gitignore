@@ -1,0 +1,11 @@
+.ipynb_checkpoints/*
+.ipynb_checkpoints*
+*.pdf
+treatres/*
+treatres/
+mortality/*
+mortality/
+mortality
+treatres
+*.csv
+nohup.out
