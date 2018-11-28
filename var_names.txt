@@ -1,0 +1,27 @@
+Pos_meancf
+Neg_meancf
+SOFAS_meancf
+atypical_mo - No. of months with atypical antipsychotics (Med_A + Med_CA)
+Atypical_days
+
+MX_Poscf
+MX_SOFAScf
+MX_Negcf
+MX_Funct
+MX_Funct_scorecf
+MX_compliance
+MX_Poscf - CGI Positive(carry forward)
+M6/12/24/36_comp_r - Check
+MX_comorbid - M1 Comorbidity (Depression, Anxiety, OCD, SA, Others)
+M1_sa - M1 abused substances
+M1_Meds2 - M1 medication status2
+M1_sle1 - M1 significant life event 1
+M1_sle2 - M1 significant life event 2
+M1_ect - Electroconvulsive therapy (ECT) - NO/YES
+M1_dsh - M1 deliberate self harm (count)
+
+
+
+
+
+
